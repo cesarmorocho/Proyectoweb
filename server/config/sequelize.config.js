@@ -1,6 +1,6 @@
 const { Sequelize } = require('sequelize');
 const username = 'root';
-const password = '090802';
+const password = 'root';
 const bdd_name = 'PonteOnceBDDv3';
 const hostName = 'localhost';
 // Conexión inicial sin especificar la base de datos
